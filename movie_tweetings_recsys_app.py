@@ -20,4 +20,4 @@ st.markdown('Movie recommendations are made using recent MovieTweetings ratings 
 
 st.markdown('MovieTweetings is a dataset of Twitter movie reviews: https://github.com/sidooms/MovieTweetings')
 
-st.write("### Top 10 "+chosen_list+" Movies", data)
+st.write("### "+chosen_list+" Movies You Should Watch!", data)
