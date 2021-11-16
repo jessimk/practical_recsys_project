@@ -16,7 +16,7 @@ data.index=np.arange(1,11,1)
 
 
 st.title('🍿 MovieTweetings Recommendations!')
-st.markdown('Movie recommendations are made using recent MovieTweetings ratings with a rating of 6 or higher.')
+st.markdown('Movie recommendations are made using recent MovieTweetings ratings with a rating of 6 or higher. These are 'Cold Start' recommendations.')
 
 st.markdown('MovieTweetings is a dataset of Twitter movie reviews: https://github.com/sidooms/MovieTweetings')
 
